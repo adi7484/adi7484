@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
+<h3 align="center">A passionate developer and data analyst.</h3>
 
-<!--
-**adi7484/adi7484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **MS Excel Visualisation,Power BI,Tableau,Front end Development,Competitive Coding**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **Data Analytics,Data Scrapping,Front End Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **aditya.gupta7484@gmail.com**
+
+- 🔎 LinnkedIn Profile **www.linkedin.com/in/aditya-gupta7**
+
+
+
+
+
