@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
-<h3 align="center">A passionate developer and data analyst.</h3>
+<h3 align="center">A passionate Java developer and Problem Solver.</h3>
 
 - 🌱 I’m currently learning **Core Java,Spring Boot,Spring MVC,Hibernate,MySql,JDBC,Competitive Coding**
 
